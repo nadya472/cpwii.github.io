@@ -1025,7 +1025,7 @@ h2 {
 
 .location-title {
   font-size: 1.5em;
-  font-weight: italic;
+  font-weight: bold;
   text-decoration: none;
   z-index: 1;
   position: absolute;
